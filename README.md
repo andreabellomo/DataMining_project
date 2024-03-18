@@ -1,5 +1,5 @@
 # Progetto DataMining
-Questo repository contiene il progetto finale del corso di DataMining. Il progetto è incentrato sull'analisi dei dati riguardanti le mutazioni di geni in soggetti che presentano un timore.
+Progetto finale del corso di DataMini. Il progetto è incentrato sull'analisi dei dati riguardanti le mutazioni di geni in soggetti che presentano un tumore.
 Nel notebook, vengono eseguiti diversi passaggi di preprocessing sui dati per prepararli all'analisi, seguiti da un confronto tra vari algoritmi di clustering.
 
 ### Descrizione del Dataset
